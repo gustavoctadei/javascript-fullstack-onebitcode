@@ -1,0 +1,22 @@
+li {
+  color: green;
+}
+
+h1 {
+  font-size: 30px;
+  color: purple;
+  /* background-color: gray; */
+  /* border-color: yellow;
+  border-width: 2px; */
+  /* border-style: solid; */
+  /* border-style: dashed; */
+
+  border: 2px dashed orange;
+}
+
+body {
+  /* background-color: gray; */
+  background-image: url("https://actualidadaeroespacial.com/wp-content/uploads/2019/08/Amos17-lanzamiento-070819.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

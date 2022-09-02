@@ -1,0 +1,34 @@
+/* Seleciona todos os elementos 
+* {
+  border: 2px solid;
+} */
+
+/* Todos os anchors <a> dentro de um li */
+/* li a {
+  color: red;
+} */
+
+/* Todo <a> filho de <li>  */
+/* li > a {
+  color: red;
+} */
+
+/* Todo <h4> adjacente a um <h1> */
+h1 + h4 {
+  border: 4px dashed;
+}
+
+/* Todo <a> que possui o atributo href com o valor especificado */
+a[href="/recibo"] {
+  color: orange;
+}
+
+/* Todo <li> na segunda posicao */
+/* li:nth-of-type(2) {
+  color: purple;
+} */
+
+/* Todo <li> em posicão de número ímpar */
+li:nth-of-type(odd) {
+  color: purple;
+}
