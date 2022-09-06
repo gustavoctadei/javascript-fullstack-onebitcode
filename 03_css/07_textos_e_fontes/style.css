@@ -1,0 +1,13 @@
+p {
+    font-family: Arial;
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-weight: 600;
+    line-height: 2;
+}
+
+h1 {
+    text-align: center;
+    /* text-decoration: underline; */
+    text-decoration: line-through;
+}
