@@ -1,0 +1,2 @@
+Criar um alias no bashrc para facilitar o uso do Sass minify utilizando o comando sassminify (utilizando sempre a mesma estrutura):
+$ echo "alias sassminify='sass sass/style.scss:css/style.css --style compressed'" >> ~/.bashrc
